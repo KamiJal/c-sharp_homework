@@ -1,6 +1,0 @@
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\bin\Debug\HomeWork_02_Task_01.exe.config
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\bin\Debug\HomeWork_02_Task_01.exe
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\bin\Debug\HomeWork_02_Task_01.pdb
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\obj\Debug\HomeWork_02_Task_01.csprojResolveAssemblyReference.cache
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\obj\Debug\HomeWork_02_Task_01.exe
-F:\_CODING\C-SHARP\_HOMEWORKS\HomeWork_02_Task_01\HomeWork_02_Task_01\obj\Debug\HomeWork_02_Task_01.pdb
