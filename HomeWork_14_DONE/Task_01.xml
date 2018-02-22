@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--массив пользователей-->
+<users>
+  <!--пользователь 0-->
+  <user name="Bill Gates">
+    <company>Microsoft</company>
+    <age>48</age>
+    <sex>male</sex>
+    <!--вложенный объект ребенок-->
+    <child>
+      <!--у вложенного объекта есть поля имя, пол-->
+      <name>Angela Gates</name>
+      <!--вложенный объект школа-->
+      <school name ="Yale">
+        <!--у вложенного объекта есть поле адрес-->
+        <address>Washington</address>
+      </school>
+      <sex>female</sex>
+    </child>
+  </user>
+  <!--пользователь 1-->
+  <user name="Larry Page">
+    <company>Google</company>
+    <age>48</age>
+    <sex>male</sex>
+    <!--вложенный объект ребенок-->
+    <child>
+      <!--у вложенного объекта есть поля имя, пол-->
+      <name>Peter Page</name>
+      <!--вложенный объект школа-->
+      <school name="MIT">
+        <!--у вложенного объекта есть поле адрес-->
+        <address>Austin</address>
+      </school>
+      <sex>male</sex>
+    </child>
+  </user>
+</users>
